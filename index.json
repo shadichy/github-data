@@ -10,23 +10,23 @@
   "socials": [
     {
       "label": "facebook",
-      "image": "/imgs/facebook.svg",
-      "url": "fb.com/nkv.shadichy"
+      "image": "https://raw.githubusercontent.com/shadichy/github-data/main/imgs/facebook.svg",
+      "url": "https://fb.com/nkv.shadichy"
     },
     {
       "label": "github",
-      "image": "/imgs/github.svg",
+      "image": "https://raw.githubusercontent.com/shadichy/github-data/main/imgs/github.svg",
       "url": "https://github.com/shadichy"
     },
     {
       "label": "tgram",
-      "image": "/imgs/tgram.svg",
-      "url": "t.me/shadichy"
+      "image": "https://raw.githubusercontent.com/shadichy/github-data/main/imgs/tgram.svg",
+      "url": "https://t.me/shadichy"
     },
     {
       "label": "x",
-      "image": "/imgs/x.svg",
-      "url": "x.com/Shadichy1"
+      "image": "https://raw.githubusercontent.com/shadichy/github-data/main/imgs/x.svg",
+      "url": "https://x.com/Shadichy1"
     }
   ],
   "projects": [
@@ -59,7 +59,7 @@
     },
     {
       "upstream": "https://github.com/shadichy/installnousb",
-      "name": "Document for   booting linux installation media without external storage",
+      "name": "Document for booting linux installation media without external storage",
       "desc": "(Moving to oti-bootstrapper) (Vietnamese only) This is the document for booting linux installation media (ISOs) without the use of any external storage device (USB, SDC, eMMC,...) from Windows using Grub2Win's chainloader. Supports many linux distributions including Debian, Ubuntu, Kali, Arch, SUSE, Fedora,...",
       "image": null,
       "stars": 1,
