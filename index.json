@@ -1,20 +1,37 @@
 {
   "name": "Shadichy",
+  "avatar": "https://avatars.githubusercontent.com/u/60534636",
   "realName": "Bùi Gia Viện",
   "desc": "A normal coder",
   "birth": 1125939600,
   "country": "VietNam",
   "workPhone": "(+84) 865 072 546",
   "workEmail": "shadichy.dev@gmail.com",
-  "socials": {
-    "facebook": "fb.com/nkv.shadichy",
-    "github": "github.com/shadichy",
-    "tgram": "t.me/shadichy",
-    "x": "x.com/Shadichy1"
-  },
+  "socials": [
+    {
+      "label": "facebook",
+      "image": "https://raw.githubusercontent.com/shadichy/github-data/main/imgs/facebook.svg",
+      "url": "fb.com/nkv.shadichy"
+    },
+    {
+      "label": "github",
+      "image": "https://raw.githubusercontent.com/shadichy/github-data/main/imgs/github.svg",
+      "url": "https://github.com/shadichy"
+    },
+    {
+      "label": "tgram",
+      "image": "https://raw.githubusercontent.com/shadichy/github-data/main/imgs/tgram.svg",
+      "url": "t.me/shadichy"
+    },
+    {
+      "label": "x",
+      "image": "https://raw.githubusercontent.com/shadichy/github-data/main/imgs/x.svg",
+      "url": "x.com/Shadichy1"
+    }
+  ],
   "projects": [
     {
-      "upstream": "github.com/shadichy/esi",
+      "upstream": "https://github.com/shadichy/esi",
       "name": "ExtOS System Installer",
       "desc": "The ExtOS Sytem Installer is a ncurses-based terminal user-interface installer for ExtOS, created and maintained by me. Offers various of choices, users can select presets from the list best suite for them or whatever they prefer to work/play, with a few pre-configurations from our contributors :>",
       "image": "https://raw.githubusercontent.com/shadichy/esi/master/logo.svg",
@@ -23,7 +40,7 @@
       "lastCommitDate": 1681298403
     },
     {
-      "upstream": "github.com/shadichy/systemback-archlinux",
+      "upstream": "https://github.com/shadichy/systemback-archlinux",
       "name": "Systemback for Arch Linux",
       "desc": "Systemback makes it easy to create backups of the system and the users configuration files. In case of problems you can easily restore the previous state of the system. There are extra features like system copying, system installation and Live system creation.",
       "image": "https://raw.githubusercontent.com/shadichy/systemback-archlinux/master/systemback/logo.png",
@@ -32,7 +49,7 @@
       "lastCommitDate": 1691408233
     },
     {
-      "upstream": "github.com/shadichy/tfh-installer",
+      "upstream": "https://github.com/shadichy/tfh-installer",
       "name": "Team Fuho map cross-platform installer",
       "desc": "A neutralinojs-based webkit application with cross-platform support for installing Team Fuho Minecraft map of VietNam onto your game, supports many different launchers.",
       "image": "https://raw.githubusercontent.com/shadichy/tfh-installer/main/resources/icons/appIcon.png",
@@ -41,7 +58,7 @@
       "lastCommitDate": 1669350860
     },
     {
-      "upstream": "github.com/shadichy/installnousb",
+      "upstream": "https://github.com/shadichy/installnousb",
       "name": "Document for booting linux installation media without external storage",
       "desc": "(Moving to oti-bootstrapper) (Vietnamese only) This is the document for booting linux installation media (ISOs) without the use of any external storage device (USB, SDC, eMMC,...) from Windows using Grub2Win's chainloader. Supports many linux distributions including Debian, Ubuntu, Kali, Arch, SUSE, Fedora,...",
       "image": null,
@@ -50,7 +67,7 @@
       "lastCommitDate": 1675425798
     },
     {
-      "upstream": "github.com/ShadichyDev/student/async",
+      "upstream": "https://github.com/ShadichyDev/student/async",
       "name": "Thang Long University's Student app",
       "desc": "Unofficial Student Management client-side mobile app for students of ThangLong University, Vietnam. Written in flutter, mobile-first, cross-platform. Main feature is to provide students ability to access personal timetables, schedule schoolar events, club events and helps student prepare ideal timetables for new semesters.",
       "image": "https://raw.githubusercontent.com/ShadichyDev/student/async/assets/images/logo.png",
@@ -59,7 +76,7 @@
       "lastCommitDate": 1719233506
     },
     {
-      "upstream": "github.com/Yuunix-Team/gearlock-core",
+      "upstream": "https://github.com/Yuunix-Team/gearlock-core",
       "name": "GearLock recovery project",
       "desc": "A fork of legacy AXON's GearLock, GearLock recovery project for Android on PC, mainly Android x86. Supports BlissBass (previously AndroidGeneric). Supports from Android 10 up to Android 13. Can be used on either Rooted or Rootless ROMs.",
       "image": "https://raw.githubusercontent.com/shadichy/gearlock-legacy/main/app/images/gearlock.svg",
@@ -68,7 +85,7 @@
       "lastCommitDate": 1702534462
     },
     {
-      "upstream": "github.com/shadichy/grub-android-x86",
+      "upstream": "https://github.com/shadichy/grub-android-x86",
       "name": "GRUB Config for Android PC",
       "desc": "GRUB Configuration for Android on PC detection for any Linux distributions. Works with any Android x86 including BlissOS, PrimeOS, PhoenixOS,... Not tested with ARM ROM like PrimeOS RPi, LineageOS,...",
       "stars": 1,
