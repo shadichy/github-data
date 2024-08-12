@@ -10,22 +10,22 @@
   "socials": [
     {
       "label": "facebook",
-      "image": "/public/imgs/facebook.svg",
+      "image": "/imgs/facebook.svg",
       "url": "fb.com/nkv.shadichy"
     },
     {
       "label": "github",
-      "image": "/public/imgs/github.svg",
+      "image": "/imgs/github.svg",
       "url": "https://github.com/shadichy"
     },
     {
       "label": "tgram",
-      "image": "/public/imgs/tgram.svg",
+      "image": "/imgs/tgram.svg",
       "url": "t.me/shadichy"
     },
     {
       "label": "x",
-      "image": "/public/imgs/x.svg",
+      "image": "/imgs/x.svg",
       "url": "x.com/Shadichy1"
     }
   ],
@@ -50,7 +50,7 @@
     },
     {
       "upstream": "https://github.com/shadichy/tfh-installer",
-      "name": "Team Fuho map cross-platform installer",
+      "name": "Team Fuho map installer",
       "desc": "A neutralinojs-based webkit application with cross-platform support for installing Team Fuho Minecraft map of VietNam onto your game, supports many different launchers.",
       "image": "https://service.teamfuho.net/wp-content/uploads/2022/05/2022-05-13_21.39.04.jpg",
       "stars": 1,
@@ -59,7 +59,7 @@
     },
     {
       "upstream": "https://github.com/shadichy/installnousb",
-      "name": "Document for booting linux installation media without external storage",
+      "name": "Document for   booting linux installation media without external storage",
       "desc": "(Moving to oti-bootstrapper) (Vietnamese only) This is the document for booting linux installation media (ISOs) without the use of any external storage device (USB, SDC, eMMC,...) from Windows using Grub2Win's chainloader. Supports many linux distributions including Debian, Ubuntu, Kali, Arch, SUSE, Fedora,...",
       "image": null,
       "stars": 1,
