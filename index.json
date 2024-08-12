@@ -10,22 +10,22 @@
   "socials": [
     {
       "label": "facebook",
-      "image": "https://raw.githubusercontent.com/shadichy/github-data/main/imgs/facebook.svg",
+      "image": "/public/imgs/facebook.svg",
       "url": "fb.com/nkv.shadichy"
     },
     {
       "label": "github",
-      "image": "https://raw.githubusercontent.com/shadichy/github-data/main/imgs/github.svg",
+      "image": "/public/imgs/github.svg",
       "url": "https://github.com/shadichy"
     },
     {
       "label": "tgram",
-      "image": "https://raw.githubusercontent.com/shadichy/github-data/main/imgs/tgram.svg",
+      "image": "/public/imgs/tgram.svg",
       "url": "t.me/shadichy"
     },
     {
       "label": "x",
-      "image": "https://raw.githubusercontent.com/shadichy/github-data/main/imgs/x.svg",
+      "image": "/public/imgs/x.svg",
       "url": "x.com/Shadichy1"
     }
   ],
