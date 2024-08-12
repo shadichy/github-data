@@ -34,7 +34,7 @@
       "upstream": "https://github.com/shadichy/esi",
       "name": "ExtOS System Installer",
       "desc": "The ExtOS Sytem Installer is a ncurses-based terminal user-interface installer for ExtOS, created and maintained by me. Offers various of choices, users can select presets from the list best suite for them or whatever they prefer to work/play, with a few pre-configurations from our contributors :>",
-      "image": "https://raw.githubusercontent.com/shadichy/esi/master/logo.svg",
+      "image": "https://avatars.githubusercontent.com/u/107233884",
       "stars": 3,
       "initialCommitDate": 1628419347,
       "lastCommitDate": 1681298403
@@ -52,7 +52,7 @@
       "upstream": "https://github.com/shadichy/tfh-installer",
       "name": "Team Fuho map cross-platform installer",
       "desc": "A neutralinojs-based webkit application with cross-platform support for installing Team Fuho Minecraft map of VietNam onto your game, supports many different launchers.",
-      "image": "https://raw.githubusercontent.com/shadichy/tfh-installer/main/resources/icons/appIcon.png",
+      "image": "https://service.teamfuho.net/wp-content/uploads/2022/05/2022-05-13_21.39.04.jpg",
       "stars": 1,
       "initialCommitDate": 1650374683,
       "lastCommitDate": 1669350860
@@ -70,7 +70,7 @@
       "upstream": "https://github.com/ShadichyDev/student/async",
       "name": "Thang Long University's Student app",
       "desc": "Unofficial Student Management client-side mobile app for students of ThangLong University, Vietnam. Written in flutter, mobile-first, cross-platform. Main feature is to provide students ability to access personal timetables, schedule schoolar events, club events and helps student prepare ideal timetables for new semesters.",
-      "image": "https://raw.githubusercontent.com/ShadichyDev/student/async/assets/images/logo.png",
+      "image": "https://thanglong.edu.vn/themes/md_tlu_2/img/logo.svg",
       "stars": 1,
       "initialCommitDate": 1698297894,
       "lastCommitDate": 1719233506
@@ -88,6 +88,7 @@
       "upstream": "https://github.com/shadichy/grub-android-x86",
       "name": "GRUB Config for Android PC",
       "desc": "GRUB Configuration for Android on PC detection for any Linux distributions. Works with any Android x86 including BlissOS, PrimeOS, PhoenixOS,... Not tested with ARM ROM like PrimeOS RPi, LineageOS,...",
+      "image": "https://www.gnu.org/graphics/gnu-head-sm.jpg",
       "stars": 1,
       "initialCommitDate": 1680148205,
       "lastCommitDate": 1707981040
