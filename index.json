@@ -33,7 +33,7 @@
     {
       "upstream": "https://github.com/shadichy/esi",
       "name": "ExtOS System Installer",
-      "desc": "The ExtOS Sytem Installer is a ncurses-based terminal user-interface installer for ExtOS, created and maintained by me. Offers various of choices, users can select presets from the list best suite for them or whatever they prefer to work/play, with a few pre-configurations from our contributors :>",
+      "desc": "The ExtOS System Installer is a ncurses-based terminal user-interface installer for ExtOS, created and maintained by me. Offers various of choices, users can select presets from the list best suite for them or whatever they prefer to work/play, with a few pre-configurations from our contributors :>",
       "image": "https://avatars.githubusercontent.com/u/107233884",
       "stars": 3,
       "initialCommitDate": 1628419347,
@@ -59,15 +59,15 @@
     },
     {
       "upstream": "https://github.com/shadichy/installnousb",
-      "name": "Document for booting linux installation media without external storage",
-      "desc": "(Moving to oti-bootstrapper) (Vietnamese only) This is the document for booting linux installation media (ISOs) without the use of any external storage device (USB, SDC, eMMC,...) from Windows using Grub2Win's chainloader. Supports many linux distributions including Debian, Ubuntu, Kali, Arch, SUSE, Fedora,...",
+      "name": "Document for booting Linux installation media without external storage",
+      "desc": "(Moving to oti-bootstrapper) (Vietnamese only) This is the document for booting Linux installation media (ISOs) without the use of any external storage device (USB, SDC, eMMC,...) from Windows using Grub2Win's chainloader. Supports many Linux distributions including Debian, Ubuntu, Kali, Arch, SUSE, Fedora,...",
       "image": null,
       "stars": 1,
       "initialCommitDate": 1675425728,
       "lastCommitDate": 1675425798
     },
     {
-      "upstream": "https://github.com/ShadichyDev/student/async",
+      "upstream": "https://github.com/ShadichyDev/student/tree/async",
       "name": "Thang Long University's Student app",
       "desc": "Unofficial Student Management client-side mobile app for students of ThangLong University, Vietnam. Written in flutter, mobile-first, cross-platform. Main feature is to provide students ability to access personal timetables, schedule schoolar events, club events and helps student prepare ideal timetables for new semesters.",
       "image": "https://thanglong.edu.vn/themes/md_tlu_2/img/logo.svg",
